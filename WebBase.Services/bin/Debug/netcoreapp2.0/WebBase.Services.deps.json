@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "WebBase.Services/1.0.0": {
+        "dependencies": {
+          "WebBase.Models": "1.0.0"
+        },
+        "runtime": {
+          "WebBase.Services.dll": {}
+        }
+      },
+      "WebBase.Core/1.0.0": {
+        "runtime": {
+          "WebBase.Core.dll": {}
+        }
+      },
+      "WebBase.Models/1.0.0": {
+        "dependencies": {
+          "WebBase.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebBase.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebBase.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebBase.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebBase.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

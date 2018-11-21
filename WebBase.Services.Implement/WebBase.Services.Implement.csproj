@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebBase.AutoMapper\WebBase.AutoMapper.csproj" />
+    <ProjectReference Include="..\WebBase.Repositories\WebBase.Repositories.csproj" />
+    <ProjectReference Include="..\WebBase.Services\WebBase.Services.csproj" />
+  </ItemGroup>
+
+</Project>

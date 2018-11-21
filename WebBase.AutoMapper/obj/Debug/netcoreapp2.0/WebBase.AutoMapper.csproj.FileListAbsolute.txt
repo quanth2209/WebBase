@@ -1,0 +1,16 @@
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.AutoMapper.deps.json
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.AutoMapper.dll
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.AutoMapper.pdb
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.Core.dll
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.Entities.dll
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.Models.dll
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.Entities.pdb
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.Models.pdb
+E:\Project\WebBase\WebBase.AutoMapper\bin\Debug\netcoreapp2.0\WebBase.Core.pdb
+E:\Project\WebBase\WebBase.AutoMapper\obj\Debug\netcoreapp2.0\WebBase.AutoMapper.csprojAssemblyReference.cache
+E:\Project\WebBase\WebBase.AutoMapper\obj\Debug\netcoreapp2.0\WebBase.AutoMapper.csproj.CoreCompileInputs.cache
+E:\Project\WebBase\WebBase.AutoMapper\obj\Debug\netcoreapp2.0\WebBase.AutoMapper.AssemblyInfoInputs.cache
+E:\Project\WebBase\WebBase.AutoMapper\obj\Debug\netcoreapp2.0\WebBase.AutoMapper.AssemblyInfo.cs
+E:\Project\WebBase\WebBase.AutoMapper\obj\Debug\netcoreapp2.0\WebBase.AutoMapper.csproj.CopyComplete
+E:\Project\WebBase\WebBase.AutoMapper\obj\Debug\netcoreapp2.0\WebBase.AutoMapper.dll
+E:\Project\WebBase\WebBase.AutoMapper\obj\Debug\netcoreapp2.0\WebBase.AutoMapper.pdb

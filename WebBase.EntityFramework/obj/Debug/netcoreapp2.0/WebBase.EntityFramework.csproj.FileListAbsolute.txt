@@ -1,0 +1,16 @@
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.EntityFramework.deps.json
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.EntityFramework.dll
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.EntityFramework.pdb
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.Configuration.dll
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.Core.dll
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.Entities.dll
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.Configuration.pdb
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.Core.pdb
+E:\Project\WebBase\WebBase.EntityFramework\bin\Debug\netcoreapp2.0\WebBase.Entities.pdb
+E:\Project\WebBase\WebBase.EntityFramework\obj\Debug\netcoreapp2.0\WebBase.EntityFramework.csprojAssemblyReference.cache
+E:\Project\WebBase\WebBase.EntityFramework\obj\Debug\netcoreapp2.0\WebBase.EntityFramework.csproj.CoreCompileInputs.cache
+E:\Project\WebBase\WebBase.EntityFramework\obj\Debug\netcoreapp2.0\WebBase.EntityFramework.AssemblyInfoInputs.cache
+E:\Project\WebBase\WebBase.EntityFramework\obj\Debug\netcoreapp2.0\WebBase.EntityFramework.AssemblyInfo.cs
+E:\Project\WebBase\WebBase.EntityFramework\obj\Debug\netcoreapp2.0\WebBase.EntityFramework.csproj.CopyComplete
+E:\Project\WebBase\WebBase.EntityFramework\obj\Debug\netcoreapp2.0\WebBase.EntityFramework.dll
+E:\Project\WebBase\WebBase.EntityFramework\obj\Debug\netcoreapp2.0\WebBase.EntityFramework.pdb

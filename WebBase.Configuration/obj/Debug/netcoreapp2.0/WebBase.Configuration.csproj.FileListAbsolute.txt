@@ -1,0 +1,9 @@
+E:\Project\WebBase\WebBase.Configuration\bin\Debug\netcoreapp2.0\WebBase.Configuration.deps.json
+E:\Project\WebBase\WebBase.Configuration\bin\Debug\netcoreapp2.0\WebBase.Configuration.dll
+E:\Project\WebBase\WebBase.Configuration\bin\Debug\netcoreapp2.0\WebBase.Configuration.pdb
+E:\Project\WebBase\WebBase.Configuration\obj\Debug\netcoreapp2.0\WebBase.Configuration.csprojAssemblyReference.cache
+E:\Project\WebBase\WebBase.Configuration\obj\Debug\netcoreapp2.0\WebBase.Configuration.csproj.CoreCompileInputs.cache
+E:\Project\WebBase\WebBase.Configuration\obj\Debug\netcoreapp2.0\WebBase.Configuration.AssemblyInfoInputs.cache
+E:\Project\WebBase\WebBase.Configuration\obj\Debug\netcoreapp2.0\WebBase.Configuration.AssemblyInfo.cs
+E:\Project\WebBase\WebBase.Configuration\obj\Debug\netcoreapp2.0\WebBase.Configuration.dll
+E:\Project\WebBase\WebBase.Configuration\obj\Debug\netcoreapp2.0\WebBase.Configuration.pdb
